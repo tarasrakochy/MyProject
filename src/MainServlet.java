@@ -14,7 +14,7 @@ public class MainServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
     	PrintWriter out = resp.getWriter();
-    	out.print("<h1>Hello, servlet!!!</h1>");
+    	out.print("<h1><b>Hello,servlet!!!<b></h1>");
     }
  
 }
