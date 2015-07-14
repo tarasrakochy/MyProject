@@ -11,6 +11,7 @@
 	<%
 		for (int i = 0; i < 5; i++) {
 			out.print("<b>dfvgfvg<br>yesterday</b>");
+			out.print("<p>print</p>");
 		}
 	%>
 </body>
