@@ -9,9 +9,9 @@
 </head>
 <body>
 	<%
-		for (int i = 0; i < 5; i++) {
-			out.print("<b>dfvgfvg<br>yesterday</b>");
-			out.print("<p>print</p>");
+		int i = 0;
+		while(i++ < 5) {
+			out.println(i);
 		}
 	%>
 </body>
