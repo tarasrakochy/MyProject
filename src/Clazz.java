@@ -1,10 +1,8 @@
 
-import static java.lang.System.*;
+import static java.lang.System.out;
 
 public class Clazz {
 	public static void Main(String[] args) {
-		out.println("GITHELLO");
-		out.println("GITHELLO");
 		out.println("GITHELLO");
 	}
 }
