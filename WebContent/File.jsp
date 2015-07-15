@@ -10,8 +10,11 @@
 <body>
 	<%
 		int i = 0;
-		while(i++ < 5) {
+		while (i++ < 10) {
 			out.println(i);
+		}
+		for(int j = 0; j < 4; j++) {
+			out.println("vfvdfv");
 		}
 	%>
 </body>
